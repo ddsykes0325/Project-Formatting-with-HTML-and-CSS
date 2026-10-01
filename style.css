@@ -1,0 +1,43 @@
+    
+h1, h2{
+ border-left: 0.5em dashed lightgoldenrodyellow;
+        color: black;
+        padding: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: lightgrey;
+}
+
+header {
+    background-color: maroon;
+    color: white;
+    padding: 1em;
+        font-family: 'Courier New', Courier, monospace;
+
+}
+
+figure {
+    border: 1px solid lightgray;
+    padding: 1em;
+    margin: 2em;
+        font-family: 'Courier New', Courier, monospace;
+
+}
+
+strong {
+    color: darkred;
+        font-family: 'Courier New', Courier, monospace;
+
+}
+
+em {
+    background-color: lightyellow;
+        font-family: 'Courier New', Courier, monospace;
+
+}
+     
+
+     
+     
+     
+     
+     
